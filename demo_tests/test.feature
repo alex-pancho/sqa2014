@@ -2,8 +2,8 @@
 
 Функционал: сайт SQA Days
     Сценарий: Тестируем переход на английскую версию сайта
-        Если зайти на сайт http://sqadays.com/
+        Если зайти на сайт https://sqadays.com/ru/index
         И нажать на ссылку "En"
-        Тогда url страницы станет http://sqadays.com/en/index
-        И на странице будет текст "XV International Conference of Software Quality Assurance"
+        Тогда url страницы станет https://sqadays.com/en/index
+        И на странице будет текст "XXIV International Conference of Software Quality Assurance"
         
